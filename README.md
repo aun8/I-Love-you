@@ -1,6 +1,6 @@
 
 
-<video src=""Video Project.mp4" controls="controls" style="max-width: 100%;">
+<video src=""C:\Users\HP\OneDrive\المستندات\Video Project.mp4" autoplay loop muted style="max-width: 400px;">
 </video>
 
 
